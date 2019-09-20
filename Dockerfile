@@ -1,4 +1,4 @@
-FROM debian:stable
+FROM debian:latest
 LABEL maintainer="Robert de Bock"
 ENV container docker
 
