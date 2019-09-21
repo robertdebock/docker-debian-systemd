@@ -1,6 +1,7 @@
 FROM debian:latest
 LABEL maintainer="Robert de Bock"
 ENV container docker
+ENV DEBIAN_FRONTEND noninteractive
 
 # Enable systemd.
 RUN apt-get update ; \
