@@ -6,7 +6,7 @@ This Dockerfile can build containers capable to use systemd.
 Branches
 --------
 
-This repository has multiple branches that relate to Fedora versions.
+This repository has multiple branches that relate to Debian versions.
 
 |Branch  |Debian Version |Docker image tag|
 |--------|---------------|----------------|
