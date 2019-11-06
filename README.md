@@ -8,11 +8,10 @@ Branches
 
 This repository has multiple branches that relate to Debian versions.
 
-|Branch  |Debian Version |Docker image tag|
-|--------|---------------|----------------|
-|master  |latest (10)    |latest          |
-|stable  |stable         |stable          |
-|unstable|unstable       |unstable        |
+|Branch  |Debian Version     |Docker image tag|
+|--------|-------------------|----------------|
+|master  |latest (buster/10) |latest          |
+|unstable|unstable (sid)     |unstable        |
 
 Pull strategy
 -------------
