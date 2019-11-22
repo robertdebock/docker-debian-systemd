@@ -1,4 +1,4 @@
-FROM debian:latest
+FROM debian
 LABEL maintainer="Robert de Bock"
 ENV container docker
 ENV DEBIAN_FRONTEND noninteractive
