@@ -1,4 +1,4 @@
-FROM debian:unstable
+FROM debian:testing
 LABEL maintainer="Robert de Bock"
 ENV container docker
 ENV DEBIAN_FRONTEND noninteractive
