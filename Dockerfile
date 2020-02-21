@@ -1,5 +1,7 @@
 FROM debian
-LABEL maintainer="Robert de Bock"
+
+LABEL maintainer="Robert de Bock <robert@meinit.nl>"
+
 ENV container docker
 ENV DEBIAN_FRONTEND noninteractive
 
