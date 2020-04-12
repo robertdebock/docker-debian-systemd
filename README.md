@@ -3,6 +3,8 @@ Docker Debian Systemd
 
 This Dockerfile can build containers capable to use systemd.
 
+[![debian build status](https://img.shields.io/docker/cloud/build/robertdebock/debian.svg)](https://hub.docker.com/repository/docker/robertdebock/debian)
+
 Branches
 --------
 
