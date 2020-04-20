@@ -1,4 +1,4 @@
-FROM debian
+FROM debian:bullseye
 
 LABEL maintainer="Robert de Bock <robert@meinit.nl>"
 
