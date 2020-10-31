@@ -14,8 +14,6 @@ This repository has multiple branches that relate to Debian versions.
 |--------|------------------|----------------|
 |master  |latest (buster/10)|latest          |
 |bullseye|bullseye          |bullseye        |
-|testing |bullseye/sid      |testing         |
-|unstable|bullseye/sid      |unstable        |
 
 Pull strategy
 -------------
