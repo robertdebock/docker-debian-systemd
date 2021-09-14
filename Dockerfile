@@ -1,4 +1,4 @@
-FROM debian
+FROM debian:bookworm
 
 LABEL maintainer="Robert de Bock <robert@meinit.nl>"
 
