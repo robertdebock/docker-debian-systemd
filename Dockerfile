@@ -1,7 +1,7 @@
 FROM debian
 
 LABEL maintainer="Robert de Bock <robert@meinit.nl>"
-LABEL build_date="2022-01-03"
+LABEL build_date="2022-01-14"
 
 ENV container docker
 ENV DEBIAN_FRONTEND noninteractive
