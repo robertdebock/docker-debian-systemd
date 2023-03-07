@@ -10,10 +10,10 @@ Branches
 
 This repository has multiple branches that relate to Debian versions.
 
-|Branch  |Debian Version    |Docker image tag|
-|--------|------------------|----------------|
-|master  |latest (buster/10)|latest          |
-|bullseye|bullseye          |bullseye        |
+|Branch  |Debian Version      |Docker image tag|
+|--------|--------------------|----------------|
+|master  |latest (bullseye/11)|latest          |
+|bookworm|bookworm            |bookworm        |
 
 Pull strategy
 -------------
