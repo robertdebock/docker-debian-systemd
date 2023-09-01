@@ -12,8 +12,9 @@ This repository has multiple branches that relate to Debian versions.
 
 |Branch  |Debian Version      |Docker image tag|
 |--------|--------------------|----------------|
-|master  |latest (bullseye/11)|latest          |
-|bookworm|bookworm            |bookworm        |
+|master  |latest (bookworm/12)|latest          |
+|bullseye|bullseye (12)       |bullseye        |
+|buster  |buster (10)         |buster          |
 
 Pull strategy
 -------------
