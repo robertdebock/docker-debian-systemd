@@ -1,4 +1,4 @@
-FROM debian
+FROM debian:trixie
 
 LABEL maintainer="Robert de Bock <robert@meinit.nl>"
 LABEL build_date="2025-09-03"
