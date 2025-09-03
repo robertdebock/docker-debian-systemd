@@ -12,9 +12,9 @@ This repository has multiple branches that relate to Debian versions.
 
 |Branch  |Debian Version      |Docker image tag|
 |--------|--------------------|----------------|
-|master  |latest (bookworm/12)|latest          |
+|master  |latest (trixie/13)  |latest          |
+|bookworm|bookworm (12)       |bookworm        |
 |bullseye|bullseye (11)       |bullseye        |
-|buster  |buster (10)         |buster          |
 
 Pull strategy
 -------------
@@ -24,7 +24,7 @@ The different branches are **not** merged, they live as individual branches.
 Manually starting
 -----------------
 
-```
+```bash
 docker run \
   --tty \
   --privileged \
